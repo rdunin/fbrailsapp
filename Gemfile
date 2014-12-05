@@ -30,6 +30,9 @@ gem 'devise'
 # Add Facebook Auth
 gem 'omniauth-facebook'
 
+# Flat Ui 
+gem 'flat-ui-rails'
+
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
